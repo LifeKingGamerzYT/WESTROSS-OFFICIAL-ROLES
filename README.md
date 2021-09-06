@@ -1,6 +1,6 @@
 <div align="center">
-    <img src="https://i.imgur.com/p9kh4Pc.png" width="128px" style="max-width:100%;">
-    <h1>Discord Roles - Team Ujjwal</h1>
+    <img src="https://i.imgur.com/6Lqo7kt.png" width="128px" style="max-width:100%;">
+    <h1>Discord Roles - CLAN WESTROSS</h1>
 </div>
 
 <h3>Staff Roles</h3>
