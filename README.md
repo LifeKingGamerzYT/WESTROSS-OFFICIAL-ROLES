@@ -5,13 +5,14 @@
 
 <h3>Staff Roles</h3>
 
-| Name           | Description                                                                                                           |
-|----------------|-----------------------------------------------------------------------------------------------------------------------|
-| Founder        | WR ツ LifeKing.  Discord: `LifeKing Gamerz YT#9770` UID: `753073310539055148`                                         |
-| Management     | Looks after all core activities related to Ujjwal and team his team.                                                  |
-| Staff Team     | Manages the server with rules and regulations. They have the right to take the necessary action against the offender. |
-| Minecraft Team | Manages our Minecraft gaming server i.e. [TG Network](https://tgnetwork.in).                                          |
-| Community Team | Manages all our community events held on Discord.                                          |
+| Name                       | Description                                                                                                           |
+|----------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| 🧔🏻 〢𒆜 Founder           | WR ツ LifeKing.  Discord: `LifeKing Gamerz YT#9770` UID: `753073310539055148`                                         |
+| 🤗 〢𒆜 Help And Support  | This is Our Mod & Suggest Bots For Helping U.                                                                         |
+| 🕵️‍♂️〢𒆜 Management         | This is Our Level Up Management Bot.                                                                                  |
+| 👷🏻‍♂️ 〢𒆜 Admin             | Manages the server with rules and regulations. They have the right to take the necessary action against the offender. |
+| 👨‍💻 〢𒆜 Moderators        | Helper of admin in this server.                                                                                       |
+| 👲 〢𒆜 Staffs            | Manages all our community events held on Discord.                                                                     |
 
 <h3>Special Roles</h3>
 
