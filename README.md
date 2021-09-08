@@ -33,15 +33,13 @@
 
 | Roles | Perks Unlocked                                                             |
 |----------------------------|----------------------------------------------------------------------------|
-| Level  10+                  | Unlocks hidden channels.                                                   |
-| Level  20+                   | Permission to external emotes.                                             |
-| Level  30+                   | Permission to add reactions along with video/screen share.                 |
-| Level  40+                  | Permission to change your nickname.                                    |
-| Level  50+                  | DJ access to control player of music bots.                                 |
-| Level  60+                  | Permission to set AFK status.                                              |
-| Level  70+                  | Permission to attach/embed files across channels.                          |
-| Level  80+                  | Regular talk show with Ujjwal as well as access to sponsor's only section.  |
-| Level  90+                 | Be the part of highly exclusive stuff. (In short a kind of pre-release!)   |
-| Level 100+                | Show off your honourable title of being on top of the server.               |
+| 🥇〢𒆜 Newbie | Level 1+                  | Verified role. No special permissions.                                                   |
+| 🥈〢𒆜 Rookie | Level 10+                   | Ability to use [change nickname](https://support.discord.com/hc/en-us/articles/219070107-Server-Nicknames).                                             |
+| 🥉〢𒆜 Expert | Level 20+                   | Ability to use [external emojis](https://support.discord.com/hc/en-us/articles/360036479811-Custom-Emojis).                 |
+
+| 🏅〢𒆜 Master | Level 30+                  | Ability to [stream video](https://support.discord.com/hc/en-us/articles/360030714312-Stream-your-game-with-Go-Live-).                                    |
+| 💂‍♂️〢𒆜 Legendary | Level 40+                  | Ability to [attach files](https://support.discord.com/hc/en-us/articles/211866427-How-do-I-upload-images-and-GIFs) in all public channels.                                 |
+
+| 👮‍♂️〢𒆜 Mythical | Level 50+                  | Ability to [send links](https://support.discord.com/hc/en-us/articles/360021235192-Sending-GIFs-on-Discord) in all public channels.                                              |
 
 > **Please Note**: The level up roles will be allotted to you after sending a particular amount of messages as mentioned above to get your perks unlocked! (Messages sent all time is not considered in this, only Mee6 Leaderboard is considered.)
