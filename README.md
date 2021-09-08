@@ -22,13 +22,14 @@
 | 🤵 〢𒆜 Honourable Guest  | Recognized members of the community or special guests of the server.                                                                                                                                             |
 | 💎 〢𒆜 Nitro Boosters     | The one who blesses this server by [boosting](https://support.discord.com/hc/en-us/articles/360028038352-Server-Boosting-).                                                                                     |
 | 🤝 〢𒆜 Contributors       | Ones who sponsor the server financially under certain circumstances(terms & conditions applied).                                                                                                                |
-| Developer         | Creator of bots that are being used in this server.                                                                                                                                                            |
-| Designer          | Ones who regularly do gfx or VFX work for Team Ujjwal.                                                                                                                                                        |
-| Artist            | Talented musicians present in the [server](https://discord.gg/ujjwalgamer).                                                                                                                                     |
-| PTT Bypass            | Given based on activity and assigned/removed automatically via automation.                                                                                                                                     |
-| Verified Girl            | Given only to girls after voice verification.                                                                                                                                     |
-| Membership            | These roles are given to member after a designated duration after they join our Discord server. Currently we have (3, 6 & 9) months & (1, 2 ,3, 4 & 5) years.                                                                                                                                     |
+| 💣〢𒆜 BGMI CLAN LEADER         | BGMI CLAN's OFFICIAL LEADER.                                                                                                                                                            |
+| 💣〢𒆜 BGMI CLAN CO-LEADER         | BGMI CLAN's OFFICIAL CO-LEADER.                                                                                                                                                        |
+| 💣〢𒆜 BGMI CLAN ELITE            | BGMI CLAN's OFFICIAL ELITE.                                                                                                                                    |
+| 💣〢𒆜 BGMI CLAN MEMBERS          | BGMI CLAN's OFFICIAL MEMBERS.                                                                                                                                    |
+| 🔫〢𒆜 CODM CLAN MASTER            | CODM CLAN's OFFICIAL MASTER.                                                                                                                                 |
+| 🔫〢𒆜 CODM CLAN VICE-MASTER            | CODM CLAN's OFFICIAL VICE-MASTER.                                                                                                                                    |
 
+| 🔫〢𒆜 CODM CLAN MEMBERS            | CODM CLAN's OFFICIAL MEMBERS.    |                                                                                                                                 
 <h3>Level Roles</h3>
 
 | Roles | Perks Unlocked                                                             |
