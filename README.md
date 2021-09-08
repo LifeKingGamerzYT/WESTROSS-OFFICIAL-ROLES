@@ -7,7 +7,7 @@
 
 | Name           | Description                                                                                                           |
 |----------------|-----------------------------------------------------------------------------------------------------------------------|
-| Owner          | Ujjwal Chaurasia.  Discord: `UjjwalGamer#9853` UID: `459683335979925504`                                              |
+| Founder        | WR ツ LifeKing.  Discord: `LifeKing Gamerz YT#9770` UID: `753073310539055148`                                         |
 | Management     | Looks after all core activities related to Ujjwal and team his team.                                                  |
 | Staff Team     | Manages the server with rules and regulations. They have the right to take the necessary action against the offender. |
 | Minecraft Team | Manages our Minecraft gaming server i.e. [TG Network](https://tgnetwork.in).                                          |
