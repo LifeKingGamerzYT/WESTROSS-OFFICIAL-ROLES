@@ -40,4 +40,4 @@
 | 💂‍♂️〢𒆜 Legendary | Level 40+                  | Ability to [attach files](https://support.discord.com/hc/en-us/articles/211866427-How-do-I-upload-images-and-GIFs) in all public channels.                                 |
 | 👮‍♂️〢𒆜 Mythical | Level 50+                  | Ability to [send links](https://support.discord.com/hc/en-us/articles/360021235192-Sending-GIFs-on-Discord) in all public channels.                                              |
 
-> **Please Note**: The level up roles will be allotted to you after sending a particular amount of messages as mentioned above to get your perks unlocked! (Messages sent all time is not considered in this, only Mee6 Leaderboard is considered.)
+> **Please Note**: The level up roles will be allotted to you after sending a particular amount of messages as mentioned above to get your perks unlocked! (Messages sent all time is not considered in this, only WR ツ AMARI(AmariBot#5150) Leaderboard is considered.)
