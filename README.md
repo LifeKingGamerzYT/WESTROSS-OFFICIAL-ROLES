@@ -28,7 +28,6 @@
 | 💣〢𒆜 BGMI CLAN MEMBERS          | BGMI CLAN's OFFICIAL MEMBERS.                                                                                                                                    |
 | 🔫〢𒆜 CODM CLAN MASTER            | CODM CLAN's OFFICIAL MASTER.                                                                                                                                 |
 | 🔫〢𒆜 CODM CLAN VICE-MASTER            | CODM CLAN's OFFICIAL VICE-MASTER.                                                                                                                                    |
-
 | 🔫〢𒆜 CODM CLAN MEMBERS            | CODM CLAN's OFFICIAL MEMBERS.    |                                                                                                                                 
 <h3>Level Roles</h3>
 
